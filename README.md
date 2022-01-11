@@ -1,6 +1,6 @@
 # Introduction
 
-In my current role at Rocket Mortgage, I’m a Software Engineering Manager for a Full Stack Development Team that consists of software engineers at various levels, quality engineer and a product owner.
+In my current role at Rocket Mortgage, I’m a Software Engineering Team Leader for a Full Stack Development Team that consists of software engineers at various levels, quality engineer and a product owner.
 I’ve written this document to provide clarity to my team members and other folks that want to know about me on how we can work together.
 
 # What does my team do?
@@ -22,9 +22,9 @@ We Collaborate with Product Strategy, business stakeholders on day to day basis 
 
 # Why write this document?
 
-I have been an individual contributor software engineer for 7+ years. With every Manager, there are unwritten rules and unwritten expectations. The best Managers are clear in their guidance and their expectations. I’m sure you will recognize this when you think about managers that you admire – many of whom I admire are at Rocket Mortgage!
+I have been an individual contributor software engineer for 7+ years. With every Team Leader (Manager), there are unwritten rules and unwritten expectations. The best leaders are clear in their guidance and their expectations. I’m sure you will recognize this when you think about leaders that you admire – many of whom I admire are at Rocket Mortgage!
 Whenever I have stepped into an engineering management role, I have strived to share this kind of clarity.
-Here’s why I like the idea of a Manager README:
+Here’s why I like the idea of a Team Leader README:
 
 * You know what to expect from me
 * I clearly state what I expect from you
