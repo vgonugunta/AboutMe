@@ -1,13 +1,15 @@
 # Introduction
-In my current role at Rocket Mortgage, I’m an Engineering Manager of a Full Stack Development Team.
 
+In my current role at Rocket Mortgage, I’m a Software Engineering Manager for a Full Stack Development Team that consists of software engineers at various levels, quality engineer and a product owner.
 I’ve written this document to provide clarity to my team members and other folks that want to know about me on how we can work together.
 
 # What does my team do?
+
 Primarily, my team works with cross functional teams to design, analyze, build, test, deploy financial related products to our clients.
 We Collaborate with Product Strategy, business stakeholders on day to day basis to build scalable, reliable and highly available products that satisfy our client needs.
 
 # My team's responsibilities are:
+
 * Providing tools and software products for both internal and external clients
 * Collaborate with other business areas
 * Collaborate on product vision and evolution with product strategy
@@ -19,10 +21,9 @@ We Collaborate with Product Strategy, business stakeholders on day to day basis 
 * Hold each other accountable and have fun while at it
 
 # Why write this document?
+
 I have been an individual contributor software engineer for 7+ years. With every Manager, there are unwritten rules and unwritten expectations. The best Managers are clear in their guidance and their expectations. I’m sure you will recognize this when you think about managers that you admire – many of whom I admire are at Rocket Mortgage!
-
 Whenever I have stepped into an engineering management role, I have strived to share this kind of clarity.
-
 Here’s why I like the idea of a Manager README:
 
 * You know what to expect from me
@@ -69,13 +70,10 @@ Here’s why I like the idea of a Manager README:
 
 # Values
 
-These are attributes of working style that I admire greatly and value in a fellow teammate and in a team.
-
-I do not expect you to have all of these values on day one.
-
-I do expect you and I to look back every quarter to see that we both have made progress on these.
-
-I expect you and I to be:
+* These are attributes of working style that I admire greatly and value in a fellow teammate and in a team.
+* I do not expect you to have all of these values on day one.
+* I do expect you and I to look back every quarter to see that we both have made progress on these.
+* I expect you and I to be:
 * Mindful
     * Be conscious, aware and deliberate in our behavior and in our work.
     * Be constantly looking for ways to improve as a team and improve our process (how we do things).
@@ -108,4 +106,46 @@ I expect you and I to be:
 
 # 1:1's
 
-#
+* 1-1s are very important to me because they are dedicated space for you to talk about anything and everything you want
+* It’s not a status meeting, unless you want to talk about status
+* 1-1s are flexible, they can shift and change to fit around our shifting schedules
+* I expect these conversations to be bi-directional.
+* They are meetings primarily for you, and only secondarily for me
+* I expect you to bring 2 strategic points of discussion for every session. It’s not about putting pressure on you, it’s about having real hard discussions, that is helpful to you for your career ambitions. At the end of the discussion, both you and I should have more clarity on what you want to achieve and what are the roadblocks.
+* Don’t save urgent matters for a 1-1!
+
+# Feedback
+
+* More than any other factor, candid and compassionate feedback is central to a cohesive high-performing team.
+* Feedback should happen as real-time as possible
+    * I will strive for this
+    * In a remote context, the “normal” post-meeting chats don’t happen; we need to be intentional
+* TBD
+
+# My Quirks
+
+* Please bear with me:
+    * I’m still figuring out what is the value that I bring to this role (this document is a prime example)
+    * I’m paranoid about wasting your time and unintentional micromanagement – so I may err on the side of less meetings or less checking-in. Please tell me if you feel I should be more involved, I can definitely do that.
+    * I’m paranoid about “losing touch” with you. So please be diligent about us having our regular once-in-2-weeks 1:1 sessions, and please regularly share your updates asynchronously (teams)
+    * I hate surprises. Please keep me informed about your observations within and outside the team.
+
+# Where to focus on your first 90 days?
+# First 30 days
+
+* In my first 30 days, I want to focus on getting to know you and everyone else on the team.  I'd love to know about your passions and interests, what led you to your current role, what you think is going well in the team/organization and what could be improved, and anything else that you think is important
+* I'll sit in on any team meetings or ceremonies the that the teams are open to me observing to further educate myself on how things are currently being done.
+* I might ask you about how things have been done in the past, what's changed, and whether the changes were net positive or negative. 
+*  That first month is all about establishing relationships, building trust, and figuring out how we best communicate and interact with each other.
+
+# 30-60 Days
+
+* Between 30-60 days after I start on a new team, I like to add in another lens that focuses on the team and the organization, broadening my perspective from individual team members. 
+* What are the challenges we're facing?  What recent successes and failures can we celebrate?
+* Who else in the organization is key for forming relationships with?
+
+# 60-90 Days
+
+* After 60 days, and assuming there are solid relationships with the team and a good understanding of our landscape, I like to start gathering thoughts and recommendations on what my priorities should be and work on developing goals for myself and my direct reports.
+
+
