@@ -42,6 +42,12 @@ Here’s why I like the idea of a Manager README:
 
 * You – My role is to ensure you are successful.
     * Your role is to design and deliver successful products. Together, we make the company’s clients successful and hence the company successful.
+    * Your job isn’t just to complete your sprint tasks (please do that too though). It’s also to own and to lead.
+    * I expect you to make the time to be a leader and to improve yourself, your peers, the team, and the company beyond the software we write.
+    * I expect you to tell me if you feel too pressured by project commitments to invest in these efforts.
+    * Actively listen to you, hear your stories, have empathy for you.
+    * Provide the coaching, outside context, tools, and opportunities to help you develop yourself and your career.
+    * Create a safe, fun, and productive working environment.
 * Culture – Building a company culture where people want to stay.
     * What is Culture?
         * What is important (Values)
@@ -67,6 +73,12 @@ Here’s why I like the idea of a Manager README:
     * Making best practices part of the process, so that they become habits.
 * Technical Skills
     * My role is a mix of engineering manager and engineering lead, but I will rely on you to also guide the “how”.
+
+# What isn't my job ?
+
+* To do your job.
+* To tell you how to do your job.
+* Please, if you see me trying to doing either of these, you're doing me a favor if you tell me so.
 
 # Values
 
