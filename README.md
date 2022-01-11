@@ -40,32 +40,32 @@ Here’s why I like the idea of a Manager README:
 # What is my job?
 
 * You – My role is to ensure you are successful.
-      * Your role is to design and deliver successful products. Together, we make the company’s clients successful and hence the company successful.
+    * Your role is to design and deliver successful products. Together, we make the company’s clients successful and hence the company successful.
 * Culture – Building a company culture where people want to stay.
-      * What is Culture?
-            * What is important (Values)
-            * How we do things (Process)
+    * What is Culture?
+        * What is important (Values)
+        * How we do things (Process)
 * Information - Analyzing, Abstracting, Implementing and Delivery
-      * My teammates are heads-down working. I am heads-up coordinating within our team and across the company.
-      * I work with other teams (development, product, stakeholders, analytics, operations, HR, etc.) to make sure we are aligned with the rest of the company and they with us.
-      * Communication is the hardest thing in our careers. Being proactive is the solution.
-      * Alignment is the most important thing in a company.
-      * Business Understanding – Talking to business stakeholders, leadership team, senior management.
+    * My teammates are heads-down working. I am heads-up coordinating within our team and across the company.
+    * I work with other teams (development, product, stakeholders, analytics, operations, HR, etc.) to make sure we are aligned with the rest of the company and they with us.
+    * Communication is the hardest thing in our careers. Being proactive is the solution.
+    * Alignment is the most important thing in a company.
+    * Business Understanding – Talking to business stakeholders, leadership team, senior management.
 * People Management
-      * My teammates debug software. I debug people & process, so that my team consistently deliver high-quality work.
-      * Career development
-            * Having strategic conversations that lead to tactical conversations.
-            * I expect my team members to be mindful and direct about their purpose. I cannot decide that for you. (“What does success look like, for you?”)
-            * I consistently work to ensure autonomy and mastery for my team members. (“Are you set up for success?”)
-            * You should expect me to try my best to ensure alignment and balance of your goals with the company’s goals. When it is not possible, I will be direct in saying so.
-      * Leadership is a character trait. Management is a role.
-            * I expect all my teammates to behave as leaders.
-            * Leadership is creating an environment where everyone can contribute to solving the problem at hand.
+    * My teammates debug software. I debug people & process, so that my team consistently deliver high-quality work.
+    * Career development
+       * Having strategic conversations that lead to tactical conversations.
+       * I expect my team members to be mindful and direct about their purpose. I cannot decide that for you. (“What does success look like, for you?”)
+       * I consistently work to ensure autonomy and mastery for my team members. (“Are you set up for success?”)
+       * You should expect me to try my best to ensure alignment and balance of your goals with the company’s goals. When it is not possible, I will be direct in saying so.
+    * Leadership is a character trait. Management is a role.
+        * I expect all my teammates to behave as leaders.
+        * Leadership is creating an environment where everyone can contribute to solving the problem at hand.
 * Project Management
-      * Deliver projects on-time.
-      * Making best practices part of the process, so that they become habits.
+    * Deliver projects on-time.
+    * Making best practices part of the process, so that they become habits.
 * Technical Skills
-      * My role is a mix of engineering manager and engineering lead, but I will rely on you to also guide the “how”.
+    * My role is a mix of engineering manager and engineering lead, but I will rely on you to also guide the “how”.
 
 # Values
 
@@ -77,34 +77,34 @@ I do expect you and I to look back every quarter to see that we both have made p
 
 I expect you and I to be:
 * Mindful
-      * Be conscious, aware and deliberate in our behavior and in our work.
-      * Be constantly looking for ways to improve as a team and improve our process (how we do things).
+    * Be conscious, aware and deliberate in our behavior and in our work.
+    * Be constantly looking for ways to improve as a team and improve our process (how we do things).
 * Self-motivated
-      * Be self-motivated. We should only need to give guidance to each other, not push each other to perform.
-      * Design your own goals based on the agreed-upon team goals and proactively sign up for chunks of the team goals.
-      * Design long-term ambitions about your work and team
+    * Be self-motivated. We should only need to give guidance to each other, not push each other to perform.
+    * Design your own goals based on the agreed-upon team goals and proactively sign up for chunks of the team goals.
+    * Design long-term ambitions about your work and team
 * Diligent
-      * Show care about our work, be detail-oriented and always be on top of tying up loose ends.
-      * Be proactive regarding our tasks.
-      * Be proactive regarding cross-team coordination.
-      * Have conversations, with timelines attached.
-          * Don’t just “Let’s discuss”.
-          * Do mention effort estimates, dependencies and their ETAs, roadblocks, integration testing estimates, ETAs, internal dates, client-facing dates, etc.
-          * Balance features vs. schedule vs.quality
+    * Show care about our work, be detail-oriented and always be on top of tying up loose ends.
+    * Be proactive regarding our tasks.
+    * Be proactive regarding cross-team coordination.
+    * Have conversations, with timelines attached.
+        * Don’t just “Let’s discuss”.
+        * Do mention effort estimates, dependencies and their ETAs, roadblocks, integration testing estimates, ETAs, internal dates, client-facing dates, etc.
+        * Balance features vs. schedule vs.quality
 * Direct
-      * Tackle issues directly, in terms of problems, people and feedback to each other.
-      * Don't hesitate.
+    * Tackle issues directly, in terms of problems, people and feedback to each other.
+    * Don't hesitate.
 * Collaborative
-      * Be conscious that we are all in this together, working towards a common goal.
-      * Understand that we can be more productive as a team than as individuals, and that we can rely on each other.
-      * Have productive conversations even when you disagree.
-      * It is impossible to over-communicate!
+    * Be conscious that we are all in this together, working towards a common goal.
+    * Understand that we can be more productive as a team than as individuals, and that we can rely on each other.
+    * Have productive conversations even when you disagree.
+    * It is impossible to over-communicate!
 * Setting high standards
 * Engaging in Life-long learning
-      * Don’t be afraid of or averse to learning new things.
-      * I encourage you to attend and propose talks for relevant conferences.
+    * Don’t be afraid of or averse to learning new things.
+    * I encourage you to attend and propose talks for relevant conferences.
 * Having Fun!
-      * We spend most of our waking hours at work. Let’s not get too serious. That would be boring.
+    * We spend most of our waking hours at work. Let’s not get too serious. That would be boring.
 
 # 1:1's
 
