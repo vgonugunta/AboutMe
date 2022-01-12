@@ -82,10 +82,10 @@ Here’s why I like the idea of a Team Leader README:
 
 # Values
 
-* These are attributes of working style that I admire greatly and value in a fellow teammate and in a team.
-* I do not expect you to have all of these values on day one.
-* I do expect you and I to look back every quarter to see that we both have made progress on these.
-* I expect you and I to be:
+These are attributes of working style that I admire greatly and value in a fellow teammate and in a team.
+I do not expect you to have all of these values on day one.
+I do expect you and I to look back every quarter to see that we both have made progress on these.
+I expect you and I to be:
 * Mindful
     * Be conscious, aware and deliberate in our behavior and in our work.
     * Be constantly looking for ways to improve as a team and improve our process (how we do things).
