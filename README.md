@@ -138,7 +138,7 @@ I expect you and I to be:
     * I’m paranoid about “losing touch” with you. So please be diligent about us having our regular once-in-2-weeks 1:1 sessions, and please regularly share your updates asynchronously (teams)
     * I hate surprises. Please keep me informed about your observations within and outside the team.
 
-# Where to focus on your first 90 days?
+# Where will i focus on my first 90 days?
 # First 30 days
 
 * In my first 30 days, I want to focus on getting to know you and everyone else on the team.  I'd love to know about your passions and interests, what led you to your current role, what you think is going well in the team/organization and what could be improved, and anything else that you think is important
