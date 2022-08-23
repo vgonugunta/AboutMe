@@ -1,18 +1,17 @@
 # Introduction
 
-In my current role at Rocket Mortgage, I’m a Software Engineering Team Leader for a Full Stack Development Team that consists of software engineers at various levels, quality engineer and a product owner.
+In my current role at KLA-Tencor, I’m a Software Engineering Manager for a Full Stack Development Team that consists of software engineers at various levels.
 I’ve written this document to provide clarity to my team members and other folks that want to know about me on how we can work together.
 
 # What does my team do?
 
-Primarily, my team works with cross functional teams to design, analyze, build, test, deploy financial related products to our clients.
-We Collaborate with Product Strategy, business stakeholders on day to day basis to build scalable, reliable and highly available products that satisfy our client needs.
+Primarily, my team works with cross functional teams to design, analyze, build, test, deploy software products to our clients.
+We Collaborate with Quality Team,Apps Testing, business stakeholders on day to day basis to build scalable, reliable and highly available products that satisfy our client needs.
 
 # My team's responsibilities are:
 
-* Providing tools and software products for both internal and external clients
+* Providing software tools and software products for both internal and external clients
 * Collaborate with other business areas
-* Collaborate on product vision and evolution with product strategy
 * Delivery of our internal and external products incrementally into production
 * Building highly performant and scalable micro-services
 * Learning from experiments and POC's to improve the quality of our software
@@ -22,15 +21,15 @@ We Collaborate with Product Strategy, business stakeholders on day to day basis 
 
 # Why write this document?
 
-I have been an individual contributor software engineer for 7+ years. With every Team Leader (Manager), there are unwritten rules and unwritten expectations. The best leaders are clear in their guidance and their expectations. I’m sure you will recognize this when you think about leaders that you admire – many of whom I admire are at Rocket Mortgage!
+I have been an individual contributor - software engineer for 7+ years. With every Team Leader/Manager, there are unwritten rules and unwritten expectations. The best leaders are clear in their guidance and their expectations. I’m sure you will recognize this when you think about leaders that you admire – many of whom I have admired over various companies that i have worked at!
 Whenever I have stepped into an engineering management role, I have strived to share this kind of clarity.
-Here’s why I like the idea of a Team Leader README:
+Here’s why I like the idea of a Software Engineering Manager README:
 
 * You know what to expect from me
 * I clearly state what I expect from you
 * Accountability - You should question me whenever I am not adhering to my process and values that I'm stating here
 * You should have clarity about my expectations, your career growth, feedback areas and so on
-* I can continously try to keep this document uptodate based on lessons learned and feedback receoved from team members
+* I can continously try to keep this document uptodate based on lessons learned and feedback received from team members
 
 # Why is this outside the company wiki?
 
@@ -45,16 +44,16 @@ Here’s why I like the idea of a Team Leader README:
     * Your job isn’t just to complete your sprint tasks (please do that too though). It’s also to own and to lead.
     * I expect you to make the time to be a leader and to improve yourself, your peers, the team, and the company beyond the software we write.
     * I expect you to tell me if you feel too pressured by project commitments to invest in these efforts.
-    * Actively listen to you, hear your stories, have empathy for you.
-    * Provide the coaching, outside context, tools, and opportunities to help you develop yourself and your career.
-    * Create a safe, fun, and productive working environment.
+    * I will actively listen to you, hear your stories, have empathy for you.
+    * I will provide the coaching, outside context, tools, and opportunities to help you develop yourself and your career.
+    * I will create a safe, fun, and productive working environment.
 * Culture – Building a company culture where people want to stay.
     * What is Culture?
         * What is important (Values)
         * How we do things (Process)
 * Information - Analyzing, Abstracting, Implementing and Delivery
     * My teammates are heads-down working. I am heads-up coordinating within our team and across the company.
-    * I work with other teams (development, product, stakeholders, analytics, operations, HR, etc.) to make sure we are aligned with the rest of the company and they with us.
+    * I work with other teams (algos, SQC, apps testers, program stakeholders, marketing, analytics, operations, HR, etc.) to make sure we are aligned with the rest of the company and they with us.
     * Communication is the hardest thing in our careers. Being proactive is the solution.
     * Alignment is the most important thing in a company.
     * Business Understanding – Talking to business stakeholders, leadership team, senior management.
@@ -122,8 +121,6 @@ I expect you and I to be:
 * It’s not a status meeting, unless you want to talk about status
 * 1-1s are flexible, they can shift and change to fit around our shifting schedules
 * I expect these conversations to be bi-directional.
-* They are meetings primarily for you, and only secondarily for me
-* I expect you to bring 2 strategic points of discussion for every session. It’s not about putting pressure on you, it’s about having real hard discussions, that is helpful to you for your career ambitions. At the end of the discussion, both you and I should have more clarity on what you want to achieve and what are the roadblocks.
 * Don’t save urgent matters for a 1-1!
 
 # Feedback
@@ -132,7 +129,6 @@ I expect you and I to be:
 * Feedback should happen as real-time as possible
     * I will strive for this
     * In a remote context, the “normal” post-meeting chats don’t happen; we need to be intentional
-* TBD
 
 # My Quirks
 
@@ -159,5 +155,3 @@ I expect you and I to be:
 # 60-90 Days
 
 * After 60 days, and assuming there are solid relationships with the team and a good understanding of our landscape, I like to start gathering thoughts and recommendations on what my priorities should be and work on developing goals for myself and my direct reports.
-
-
